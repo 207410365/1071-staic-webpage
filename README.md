@@ -1,1 +1,1 @@
-# 1071-staic-webpage
+# 1071-static-webpage
