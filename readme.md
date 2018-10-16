@@ -8,12 +8,11 @@
 ## Week3
    * [tku60.html](http://127.0.0.1:1167/w03/tku60.html)
    * [div.html](http://127.0.0.1:1167/w03/div.html)
-   * [blog.html,blog.css](http://127.0.0.1:1167/w04/blog.html)
 ## Week4
- * [blog.html,blog.css](http://127.0.0.1:1167/w04/blog.html)
-   * ttt.html,ttt.css
-   * profile.html
+  * [blog.html,blog.css](http://127.0.0.1:1167/w04/blog.html)
+   * [ttt.html,ttt.css](http://127.0.0.1:1167/w04/ttt.html)
+   * [profile.html](http://127.0.0.1:1167/w04/profile.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE4MTkwNDIsLTE0NTk4NzMzMzUsMT
+eyJoaXN0b3J5IjpbLTIxMTgwNTcwNDQsLTE0NTk4NzMzMzUsMT
 Y1MDMwODE4MV19
 -->
