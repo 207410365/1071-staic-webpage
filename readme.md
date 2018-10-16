@@ -6,12 +6,12 @@
 
 * [table.html](http://127.0.0.1:1167/w02/table.html)
 ## Week3
-   * tku60.html
-   * div.html
+   * [tku60.html](http://127.0.0.1:1167/w03/tku60.html)
+   * [div.html](http://127.0.0.1:1167/w03/div.html)
 ## Week4
    * ttt.html,ttt.css
    * profile.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTg5NTkxOSwtMTQ1OTg3MzMzNSwxNj
+eyJoaXN0b3J5IjpbMTg0OTczNjUxNiwtMTQ1OTg3MzMzNSwxNj
 UwMzA4MTgxXX0=
 -->
