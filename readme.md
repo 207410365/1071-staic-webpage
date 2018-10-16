@@ -18,7 +18,7 @@
 ````
 ## Week2
 * [school timetable.html](http://127.0.0.1:1167/w02/school%20timetable.html)
-````
+````html
     <html>
     <head>
        <title>我的課表</title>
@@ -180,7 +180,7 @@
     </head>
 </html>
 ````
-* table.html
+* [table.html](http://127.0.0.1:1167/w02/table.html)
 ## Week3
    * tku60.html
    * div.html
@@ -188,6 +188,6 @@
    * ttt.html,ttt.css
    * profile.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODg5ODUxOSwtMTQ1OTg3MzMzNSwxNj
-UwMzA4MTgxXX0=
+eyJoaXN0b3J5IjpbNDcyMjcxMTc1LC0xNDU5ODczMzM1LDE2NT
+AzMDgxODFdfQ==
 -->
