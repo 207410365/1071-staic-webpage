@@ -15,6 +15,12 @@
 ## Week5
  * [imagegallery.html](http://127.0.0.1:1167/w05/imagegallery.html)
  * [pet.html](http://127.0.0.1:1167/w05/pet.html)
+## Week7
+## Week8
+## Week11
+## Week12
+## Week13
+## Week14
  
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU4NzI0ODY3MSwtMjExODA1NzA0NCwtMT
