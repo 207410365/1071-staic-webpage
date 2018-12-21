@@ -1,4 +1,4 @@
-body{
+#blogcontainer{
     border:20px solid #ffb37c;
     margin:20px auto;
     width:80%;
@@ -7,19 +7,19 @@ body{
     max-width: 700px;
     font-size: 16px;
 }
-h2{
+#blogcontainer h2{
     font-size: 2rem;
 }
-.quote{
+#blogcontainer .quote{
     border-left:5px solid #2984e0;
     padding-left: 5px;
 }
-.date{
+#blogcontainer .date{
     color:#2e9bfa;
     text-transform:uppercase;
     letter-spacing:0.2rem;
 }
-hr{
+#blogcontainer hr{
     border-top:1px solid rgba(0,0,0,0.1);
     border-bottom: 1px solid rgba(255,255,255,01)    
 }
