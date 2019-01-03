@@ -16,11 +16,11 @@
  * [imagegallery.html](https://207410365.github.io/1071-static-webpage/w05/imagegallery.html)
  * [pet.html](https://207410365.github.io/1071-static-webpage/w05/pet.html)
 ## Week6
-* [flexbox.html](http://127.0.0.1:1167/w05/pet.html)
+* [flexbox.html](https://207410365.github.io/1071-static-webpage/w06/flexbox.html)
 ## Week7
-* [galleryTemplate.html](http://127.0.0.1:1167/w05/pet.html)
+* [galleryTemplate.html](https://207410365.github.io/1071-static-webpage/w07/galleryTemplate.html)
 ## Week8
-* [index.html](http://127.0.0.1:1167/w05/pet.html)
+* [index.html](https://207410365.github.io/1071-static-webpage/w08/index.html)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU4NzI0ODY3MSwtMjExODA1NzA0NCwtMT
